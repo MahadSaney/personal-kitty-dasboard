@@ -15,8 +15,8 @@ The board only reads mission files and never writes to your repo. It runs until 
 ## Install
 
 ```bash
-git clone ssh://git@bitbucket.regnology.net:7999/~mahad.mohamed/personal-kitty-dashboard.git
-cd personal-kitty-dashboard
+git clone https://github.com/MahadSaney/personal-kitty-dasboard.git
+cd personal-kitty-dasboard
 python install.py
 ```
 
