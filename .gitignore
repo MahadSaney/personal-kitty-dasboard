@@ -1,0 +1,27 @@
+# Added by Spec Kitty CLI (auto-managed)
+.claude/
+.codex/
+.vibe/
+.pi/
+.letta/
+.opencode/
+.windsurf/
+.gemini/
+.llxprt/
+.cursor/rules/spec-kitty.mdc
+.cursor/commands/
+.cursor/skills/
+.qwen/
+.kilocode/
+.augment/
+.amazonq/
+.kiro/
+.agent/
+.github/copilot/
+.agents/skills/
+.kittify/
+.worktrees/
+kitty-ops/ops-index.jsonl
+kitty-specs/*/.kittify/dossiers/
+__pycache__/
+*.pyc
